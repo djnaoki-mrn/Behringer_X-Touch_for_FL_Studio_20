@@ -1,6 +1,7 @@
 # Behringer_X-Touch_for_FL_Studio_20
 
 i'm trying to make a midi python script to use the behringer  X-Touch in Xctl mode with FL-Studio 20.
+this mode allow to use color on screens and all other functions.
 for the moment, this file is working but it makes fl studio crash randomly or during the project loading.
 i dont know why. if you have ideas ? 
 
